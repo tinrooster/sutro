@@ -1,0 +1,6 @@
+[tool.poetry]
+name = "sutro"
+version = "0.1.0"
+description = "A comprehensive Python framework for building scalable applications"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
